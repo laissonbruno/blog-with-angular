@@ -1,0 +1,15 @@
+.menu__title{
+  color: #ffffff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.menu__title__container > hr{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: #242424;
+}
